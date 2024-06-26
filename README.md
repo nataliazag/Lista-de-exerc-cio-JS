@@ -1,1 +1,1 @@
-# Lista-de-exerc-cio-JS
+# Lista de exercício JS
